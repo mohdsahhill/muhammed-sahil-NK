@@ -40,7 +40,7 @@ Supervised web application penetration test of a real client environment. Report
 ## Certifications
 
 - Fortinet NSE 1, 2 and 3 (2026)
-- CompTIA Security+ (in progress, expected December 2026)
+- CompTIA Security+ (in progress)
 
 ## Ethics
 
